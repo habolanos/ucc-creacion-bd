@@ -7,8 +7,9 @@
 |Banco          |`bd_banco`          |`Pending`                                                       |
 |Cine Colombia  |[`bd_cine_colombia`](./bd_cine_colombia)  |[v1.2.0](./bd_cine_colombia/Diagrams/cine_colombia_v1.2.0.svg)  |
 |Despegar       |`bd_despegar`       |`Pending`                                                       |
+|Apuestas       |`bd_apuestas`       |`Pending`                                                       |
 
 ## Next Projects
-bd_apuestas
+Point of Sell
 
 by: hadrian
