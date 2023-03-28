@@ -4347,7 +4347,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:ReferenceSymbol Id="o24">
 <a:CreationDate>1679965616</a:CreationDate>
 <a:ModificationDate>1679965616</a:ModificationDate>
-<a:Rect>((-66353,-24907), (-14339,15406))</a:Rect>
+<a:Rect>((-66353,-24907), (-14339,15405))</a:Rect>
 <a:ListOfPoints>((-41563,-24507),(-60023,14928),(-14858,-13059))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -4369,7 +4369,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:ReferenceSymbol Id="o28">
 <a:CreationDate>1679965616</a:CreationDate>
 <a:ModificationDate>1679965616</a:ModificationDate>
-<a:Rect>((-45091,-8840), (-5848,35267))</a:Rect>
+<a:Rect>((-45091,-8840), (-5848,35266))</a:Rect>
 <a:ListOfPoints>((-6248,-8440),(-24708,34788),(-44507,6801))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -4525,7 +4525,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:ReferenceSymbol Id="o48">
 <a:CreationDate>1679965616</a:CreationDate>
 <a:ModificationDate>1679965616</a:ModificationDate>
-<a:Rect>((1772,-25867), (38885,15406))</a:Rect>
+<a:Rect>((1772,-25867), (38885,15405))</a:Rect>
 <a:ListOfPoints>((38485,-25467),(20025,14928),(2362,-13059))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -5769,9 +5769,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(20)</a:DataType>
+<a:DataType>NUMERIC(20)</a:DataType>
 <a:Length>20</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 </o:Column>
@@ -5905,9 +5905,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE_DIRECCION</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(15)</a:DataType>
+<a:DataType>NUMERIC(15)</a:DataType>
 <a:Length>15</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 </o:Column>
@@ -5917,9 +5917,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(20)</a:DataType>
+<a:DataType>NUMERIC(20)</a:DataType>
 <a:Length>20</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 <a:AutoMigrated>1</a:AutoMigrated>
@@ -6134,9 +6134,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE_EMAIL</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(15)</a:DataType>
+<a:DataType>NUMERIC(15)</a:DataType>
 <a:Length>15</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 </o:Column>
@@ -6146,9 +6146,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(20)</a:DataType>
+<a:DataType>NUMERIC(20)</a:DataType>
 <a:Length>20</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 <a:AutoMigrated>1</a:AutoMigrated>
@@ -6247,9 +6247,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE_TELEFONO</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(15)</a:DataType>
+<a:DataType>NUMERIC(15)</a:DataType>
 <a:Length>15</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 </o:Column>
@@ -6259,9 +6259,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(20)</a:DataType>
+<a:DataType>NUMERIC(20)</a:DataType>
 <a:Length>20</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 <a:AutoMigrated>1</a:AutoMigrated>
@@ -6462,9 +6462,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE_REDES</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(15)</a:DataType>
+<a:DataType>NUMERIC(15)</a:DataType>
 <a:Length>15</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 </o:Column>
@@ -6474,9 +6474,9 @@ I	INACTIVO</a:ListOfValues>
 <a:Code>ID_CLIENTE</a:Code>
 <a:CreationDate>1679965616</a:CreationDate>
 <a:Creator>HaroldBolaños</a:Creator>
-<a:ModificationDate>1679965616</a:ModificationDate>
+<a:ModificationDate>1679965709</a:ModificationDate>
 <a:Modifier>HaroldBolaños</a:Modifier>
-<a:DataType>NUMBER(20)</a:DataType>
+<a:DataType>NUMERIC(20)</a:DataType>
 <a:Length>20</a:Length>
 <a:Column.Mandatory>1</a:Column.Mandatory>
 <a:AutoMigrated>1</a:AutoMigrated>
