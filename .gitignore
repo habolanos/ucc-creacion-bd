@@ -1,2 +1,5 @@
-*.json.bak
 .settings
+
+#DBEaver's Exception
+*.json.bak
+*credentials-config.json
