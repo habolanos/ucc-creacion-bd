@@ -1,0 +1,70 @@
+{
+	"folders": {},
+	"connections": {
+		"oracle_thin-187265e3ab9-6c58a54efb80cdda": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "oracle ORCL/SYSTEM",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "ORCL",
+				"url": "jdbc:oracle:thin:@//localhost:1521/ORCL",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"provider-properties": {
+					"show-only-one-schema@": "false",
+					"@dbeaver-check-schema-content@": "false",
+					"@dbeaver-always-show-dba@": "false",
+					"@dbeaver-always-use-dba-views@": "false",
+					"@dbeaver-meta-use-sys-schema@": "false",
+					"@dbeaver-meta-use-simple-constraints@": "false",
+					"@dbeaver-use-rule-hint@": "false",
+					"@dbeaver-use-meta-optimizer@": "true",
+					"@dbeaver-meta-use-alternative-table-query@": "false",
+					"oracle.meta-search-in-synonyms": "false",
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
+		},
+		"postgres-jdbc-187265e3b4c-7ed4ac68f39b6af1": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "postgres postgres",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"url": "jdbc:postgresql://localhost:5432/",
+				"configurationType": "MANUAL",
+				"home": "postgresql_client",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "true",
+					"@dbeaver-show-template-db@": "false",
+					"@dbeaver-show-unavailable-db@": "false",
+					"show-database-statistics": "false",
+					"@dbeaver-read-all-data-types-db@": "false",
+					"@dbeaver-use-prepared-statements-db@": "false",
+					"postgresql.dd.plain.string": "false",
+					"postgresql.dd.tag.string": "false"
+				},
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
