@@ -62,7 +62,7 @@
 		"postgres-jdbc-186ddc88503-16c2f839107dc25b": {
 			"provider": "postgresql",
 			"driver": "postgres-jdbc",
-			"name": "pg postgres/postgres",
+			"name": "postgres postgres",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
@@ -87,7 +87,7 @@
 		"postgres-jdbc-186ddc9dab5-5ffa6a0b5cfdcaa3": {
 			"provider": "postgresql",
 			"driver": "postgres-jdbc",
-			"name": "pg postgres/cine",
+			"name": "postgres cine",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
